@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "752658675624",
+    "project_id": "short-bit-41a56",
+    "storage_bucket": "short-bit-41a56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752658675624:android:e9c2200a673bf172cd0f9d",
+        "android_client_info": {
+          "package_name": "com.example.shortbit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6162RdXu7pIQ62pxwmkQlG9HhzB6in7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
